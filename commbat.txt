@@ -1,0 +1,58 @@
+***********************************************************
+**COMMBAT Quick Reference Card (c) 1981 Adventure Int'l. **
+*========================================================**
+**     Directional Weapons:          *********           **
+**     Laser    (F L 8)              * 8 1 2 *           **
+**     Rocket   (F R 3)              * 7 + 3 *           **
+**                                   * 6 5 4 *           **
+**           Firing Directions  -->  *********           **
+**-------------------------------------------------------**
+**     Target Weapons:                Air Recon.         **
+**     Shell     (F S 1 22 10)       (F A 5 18 9)        **
+**     ICBM      (F I 5 15 11)                           **
+**-------------------------------------------------------**
+**             Range  Strength           Range   Strength**
+**   ICBMs:    Unlim  8x8 sq.   Drones:  Unlim   7x7 sq. **
+**   Lasers:   4 KM   1 Unit    Shells:  5 KM    2 Units **
+**   Rockets:  3 KM   4 Units   Mines:   Contact 4 Units **
+**=======================================================**
+**                    Symbols Table:                     **
+**-------------------------------------------------------**
+**   +      Own Mine.            X      Dead Tank        **
+**   #      Boundary Marker      *      Enemy Tank       **
+**   B      Your Base            1 TO 8 Your Tank        **
+**   D      Your Decoy           BBB    Enemy Base/Decoy **
+**=======================================================**
+**                   Command Table:                      **
+**-------------------------------------------------------**
+** Commands:     Params:      Example:      Objects:     **
+**  (D)ROP       D,L,M,R,S    D M 5         (A)IR RECON. **
+**  (F)IRE       A,I,L,R,S    F L #         (B)ASE       **
+**  (H)ELP       ---------    H             (D)ECOY      **
+**  (L)OAD       D,L,M,R,S    L M 7         (I)CBM       **
+**  (M)AP        Sector #     M 6           (L)ASER      **
+**  (P)ATCH      TANK #'S     P 1 2 3       (M)INE       **
+**  (Q)UIT       ---------    Q             (R)OCKET     **
+**  (S)ELECT     B,D,TANK#    S D 2         (S)HELL      **
+**  (:) MESSAGE  Messages     :Got you now  (T)ANK       **
+**=======================================================**
+**                     Map Layouts                       **
+**-------------------------------------------------------**
+**  1 ...................    S,X,Y    .........          **
+**  ! .                 . S-Sector    . 1 . 2 .   S   L  **
+**  ! .                 . X-Horizontal.........   E   A  **
+**  ! .    32 X 16 KM   . Y-Vertical  . 3 . 4 .   C   Y  **
+**  Y .      Sector     .             .........   T   O  **
+**  ! .      Display    .             . 5 . 6 .   O   U  **
+**  ! .                 .             .........   R   T  **
+**  ! .                 .             . 7 . 8 .          **
+**  16...................             .........          **
+**    1------ X ------ 32                                **
+**=======================================================**
+**                      Resources:                       **
+**-------------------------------------------------------**
+**      Tanks:    8     Mines:  200    Bases:      1     **
+**      Drones:   4     Shells: 250    ICBMS:      1     **
+**      Decoys:   3     Laser:  255    Rockets:    200   **
+***********************************************************
+
